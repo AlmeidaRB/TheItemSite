@@ -19,7 +19,7 @@ nav li {
 
 nav a {
   display: block;
-  padding: 15px;
+  padding: 25px;
   color: white; }
 
 nav li:hover {
@@ -55,5 +55,24 @@ img {
 
 img:hover {
   border: 8px solid black; }
+
+.box ul {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 50px; }
+
+.box li {
+  list-style-type: none;
+  font-size: 20px;
+  text-align: left;
+  margin: 0px;
+  padding: 0px; }
+
+.box img {
+  border: 0px;
+  padding-top: 20px;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px; }
 
 /*# sourceMappingURL=styles.css.map */
