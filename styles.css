@@ -44,6 +44,15 @@ aside {
 
 img {
   display: inline-block;
-  border: 7px solid black; }
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  }
+
+img:hover {
+  border-top: 4px solid black;
+  border-left: 4px solid black;
+  border-bottom: 7px solid black;
+  border-right: 7px solid black;
+  }
 
 /*# sourceMappingURL=styles.css.map */
